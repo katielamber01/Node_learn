@@ -8,3 +8,5 @@ lesson 2
 lesson 4
 Thread of execution: ability to run code ly by line
 To run a code of a function we need new execution context.
+
+---
